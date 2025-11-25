@@ -6,10 +6,10 @@ Welcome to my 12-week API Security training portfolio, completed in partnership 
 
 ## 🎯 Program Overview
 
-- **Duration:** October–December 2025  
+- **Duration:** November–March 2026 
 - **Focus:** API security fundamentals, OWASP Top 10, authentication, pen-testing, and securing modern APIs  
 - **Tools Used:** Postman, Burp Suite, 42Crunch, Docker, ffuf, Schemathesis, FutureMe.org  
-- **Deliverables:** Weekly lab reports, CVSS scoring, PoC evidence, reflections, and Micro-Quest submissions
+- **Deliverables:** Weekly lab reports, CVSS scoring, PoC evidence and reflections
 
 ---
 
@@ -32,16 +32,6 @@ Welcome to my 12-week API Security training portfolio, completed in partnership 
 
 ---
 
-## 🏆 Micro-Quests (November XP Challenge)
-
-This repo also supports my submissions for the **November Micro-Quests**, designed to build professional visibility and personal growth:
-
-- ✅ [Publish an Article](#) – *Why API Security Matters*  
-- ✅ [Letter to My Future Self](./personal/future-letter.md) – *Goals for the next 6 months*  
-- ✅ [LinkedIn Reflection Post](#) – *Week 1 experience + API security news*
-
----
-
 ## 🧠 Skills & Growth
 
 By the end of this program, I will have demonstrated:
@@ -50,14 +40,14 @@ By the end of this program, I will have demonstrated:
 - Secure API design and gateway configuration  
 - Pen-testing methodology and chaining vulnerabilities  
 - Professional documentation and reporting
+- Become a certified API Pen Tester 
 
 ---
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/your-profile](#)  
-- **Medium Blog:** [medium.com/@your-handle](#)  
-- **GitHub Profile:** [github.com/your-username](#)
+- **LinkedIn:**       [www.linkedin.com/in/memory-mahanya](#)  
+- **GitHub Profile:** [github.com/mars-sudo-ship-it](#)
 
 ---
 
