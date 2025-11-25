@@ -44,9 +44,8 @@ During testing, the following **four vulnerabilities** were identified:
 ---
 
 ## 📂 Evidence
-- **Screenshots:** [screenshots/](./screenshots)  
-- **PoC Requests:** [poc/](./poc)  
-- **Report:** [report.md](./report.md)  
+
+- **Report & Pocs :** [report.md](./report.md)  
 
 ---
 
@@ -78,11 +77,8 @@ This lab reinforced the importance of **layered testing** (Postman → Burp → 
 ## 🔗 Links
 - [LinkedIn Reflection Post](#) *(to be added)*  
 - [Medium Article: Why API Security Matters](#) *(to be added)*  
-- [Cybersafe Training Program](#) *(optional)*
 
 ---
 
 ## ✅ Next Steps
 - Week 2: Explore API Authentication (JWTs, API keys, token-based access control)  
-- Continue building portfolio with weekly labs  
-- Publish reflections on LinkedIn + Medium for visibility
