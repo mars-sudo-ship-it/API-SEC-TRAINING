@@ -111,7 +111,7 @@ Weaknesses allow unauthorized attribute injection, privilege abuse, and data int
 ---
 
 ## 📂 Evidence
-See `/screenshots/` for Postman and Burp captures, and `/poc/` for exploit requests.
+See  for Postman and Burp captures, and `/poc/` for exploit requests.
 
 
 
