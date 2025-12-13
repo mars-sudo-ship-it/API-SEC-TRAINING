@@ -17,7 +17,7 @@ Welcome to my 12-week API Security training portfolio, completed in partnership 
 
 | Week | Theme                            | Folder Link |
 |------|----------------------------------|-------------|
-| 1    | API Security Fundamentals        |  |
+| 1    | API Security Fundamentals        | [Week1_vampi](https://github.com/mars-sudo-ship-it/API-SEC-TRAINING/blob/main/vampi.pdf) |
 | 2    | API Authentication               | *(Coming soon)* |
 | 3    | OWASP API Top 10 – Part 1        | *(Coming soon)* |
 | 4    | OWASP API Top 10 – Part 2        | *(Coming soon)* |
