@@ -17,7 +17,7 @@ Welcome to my 12-week API Security training portfolio, completed in partnership 
 
 | Week | Theme                            | Folder Link |
 |------|----------------------------------|-------------|
-| 1    | API Security Fundamentals        | [Week 1 – VAmPI Lab](./week1-vampi) |
+| 1    | API Security Fundamentals        |  |
 | 2    | API Authentication               | *(Coming soon)* |
 | 3    | OWASP API Top 10 – Part 1        | *(Coming soon)* |
 | 4    | OWASP API Top 10 – Part 2        | *(Coming soon)* |
